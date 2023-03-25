@@ -1,0 +1,198 @@
+{
+	"movies": [
+		{
+			"id": 1,
+			"poster": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+			"title": "Doctor Strange in the Multiverse of Madness",
+			"director": "Sam Raimi",
+			"year": 2022,
+			"genre": "Action",
+			"IMDB_Rating": 6.8,
+			"ticket": 200
+		},
+		{
+			"id": 2,
+			"poster": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
+			"title": "I Am Legend",
+			"director": "Francis Lawrence",
+			"year": 2007,
+			"genre": "Horror",
+			"IMDB_Rating": 7.2,
+			"ticket": 200
+		},
+		{
+			"id": 3,
+			"poster": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+			"title": "Doctor Strange in the Multiverse of Madness",
+			"director": "Sam Raimi",
+			"year": 2022,
+			"genre": "Comedy",
+			"IMDB_Rating": 5.8,
+			"ticket": 300
+		},
+		{
+			"id": 4,
+			"poster": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
+			"title": "I Am Legend",
+			"director": "Francis Lawrence",
+			"year": 2007,
+			"genre": "Romance",
+			"IMDB_Rating": 1.2,
+			"ticket": 100
+		},
+		{
+			"id": 5,
+			"poster": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+			"title": "Doctor Strange in the Multiverse of Madness",
+			"director": "Sam Raimi",
+			"year": 2022,
+			"genre": "Action",
+			"IMDB_Rating": 6,
+			"ticket": 600
+		},
+		{
+			"id": 6,
+			"poster": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
+			"title": "I Am Legend",
+			"director": "Francis Lawrence",
+			"year": 2007,
+			"genre": "Horror",
+			"IMDB_Rating": 7,
+			"ticket": 700
+		},
+		{
+			"id": 7,
+			"poster": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+			"title": "Doctor Strange in the Multiverse of Madness",
+			"director": "Sam Raimi",
+			"year": 2022,
+			"genre": "Action",
+			"IMDB_Rating": 8,
+			"ticket": 800
+		},
+		{
+			"id": 8,
+			"poster": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
+			"title": "I Am Legend",
+			"director": "Francis Lawrence",
+			"year": 2007,
+			"genre": "Horror",
+			"IMDB_Rating": 2,
+			"ticket": 200
+		},
+		{
+			"id": 9,
+			"poster": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+			"title": "Doctor Strange in the Multiverse of Madness",
+			"director": "Sam Raimi",
+			"year": 2022,
+			"genre": "Comedy",
+			"IMDB_Rating": 2.8,
+			"ticket": 280
+		},
+		{
+			"id": 10,
+			"poster": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
+			"title": "I Am Legend",
+			"director": "Francis Lawrence",
+			"year": 2007,
+			"genre": "Romance",
+			"IMDB_Rating": 2,
+			"ticket": 1001
+		},
+		{
+			"id": 11,
+			"poster": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+			"title": "Doctor Strange in the Multiverse of Madness",
+			"director": "Sam Raimi",
+			"year": 2022,
+			"genre": "Action",
+			"IMDB_Rating": 6.8,
+			"ticket": 1200
+		},
+		{
+			"id": 12,
+			"poster": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
+			"title": "I Am Legend",
+			"director": "Francis Lawrence",
+			"year": 2007,
+			"genre": "Horror",
+			"IMDB_Rating": 7.2,
+			"ticket": 2200
+		},
+		{
+			"id": 13,
+			"poster": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+			"title": "Doctor Strange in the Multiverse of Madness",
+			"director": "Sam Raimi",
+			"year": 2022,
+			"genre": "Comedy",
+			"IMDB_Rating": 7.8,
+			"ticket": 30
+		},
+		{
+			"id": 14,
+			"poster": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
+			"title": "I Am Legend",
+			"director": "Francis Lawrence",
+			"year": 2007,
+			"genre": "Romance",
+			"IMDB_Rating": 7.2,
+			"ticket": 1002
+		},
+		{
+			"id": 15,
+			"poster": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+			"title": "Doctor Strange in the Multiverse of Madness",
+			"director": "Sam Raimi",
+			"year": 2022,
+			"genre": "Action",
+			"IMDB_Rating": 9.6,
+			"ticket": 2002
+		},
+		{
+			"id": 16,
+			"poster": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
+			"title": "I Am Legend",
+			"director": "Francis Lawrence",
+			"year": 2007,
+			"genre": "Horror",
+			"IMDB_Rating": 9,
+			"ticket": 2200
+		},
+		{
+			"id": 17,
+			"poster": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+			"title": "Doctor Strange in the Multiverse of Madness",
+			"director": "Sam Raimi",
+			"year": 2022,
+			"genre": "Comedy",
+			"IMDB_Rating": 5.8,
+			"ticket": 3002
+		},
+		{
+			"id": 18,
+			"poster": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
+			"title": "I Am Legend",
+			"director": "Francis Lawrence",
+			"year": 2007,
+			"genre": "Romance",
+			"IMDB_Rating": 10,
+			"ticket": 1000
+		}
+	],
+	"users": [
+		{
+			"id": 1,
+			"username": "john",
+			"email": "john@gmail.com",
+			"password": "john"
+		}
+	],
+	"reports": [
+		{
+			"username": "john",
+			"bookings": {}
+		}
+	]
+}
